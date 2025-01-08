@@ -49,11 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yusufnadar/yusufnadar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Visitor's count 👀</p>
+<p align="center">Visitor's count 👀</p>
 
 ###
 
