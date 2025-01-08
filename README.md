@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://cdn.pixabay.com/photo/2023/03/15/21/00/rabbit-7855464_1280.jpg"  />
+</div>
+
+###
+
 <h2 align="left">Hi 🙋🏻‍♂️! My name is Yusuf and I'm a mobile application developer.</h2>
 
 ###
@@ -6,10 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yusufnadar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufnadar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://cdn.pixabay.com/photo/2023/03/15/21/00/rabbit-7855464_1280.jpg"  />
 
 ###
 
